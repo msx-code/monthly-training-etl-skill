@@ -1,0 +1,20 @@
+# Keep operational and confidential artifacts out of the public skill repository.
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+*.csv
+*.json
+*.ndjson
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+data/
+local/
+outputs/
+work/
+*.inspect.*
+
+
